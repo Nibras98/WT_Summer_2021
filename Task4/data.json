@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Shamit Nibras",
+        "email": "shamitnibras@gmail.com",
+        "password": "123456",
+        "comment": "Hello EveryOne",
+        "gender": "Male",
+        "hobby1": null,
+        "hobby2": null,
+        "hobby3": "Reading"
+    },
+    {
+        "name": "Shamit Nibras",
+        "email": "shamitnibras@gmail.com",
+        "password": "123456",
+        "comment": "Hello EveryOne",
+        "gender": "Male",
+        "hobby": "Playing"
+    }
+]
