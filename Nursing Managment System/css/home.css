@@ -1,0 +1,52 @@
+body {
+  font-family: "Bell MT";
+  background-color: rgb(176,224,230);
+}
+
+  ul {
+    list-style-type: none;
+    margin: 3px;
+    overflow: hidden;
+    background-color: rgb(126, 79, 79);
+    border-radius: 30px;
+    font-family:  "Bell MT";
+    font-size: 22px;
+  }
+
+li {
+  float: right;
+}
+
+li a {
+  display: block;
+  color: rgb(0, 0, 0);
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: double;
+}
+
+  table{
+    width: 100%;
+    height: 100%;
+    margin: 3px;
+    border:1px solid  #afadad;
+    border-radius: 30px;
+    text-decoration: rgb(189, 197, 181);
+    background-color:#557e6e;
+  }
+  h1{
+    font-family:"Bell MT";
+  }
+  img {
+    align-items: center;
+     border-radius: 40px;
+     height: 290px;
+     width: 900px;
+ }
+ h2{
+    font-family:"Bell MT";
+  }
+ 
+  a {
+    text-decoration: none;
+  }

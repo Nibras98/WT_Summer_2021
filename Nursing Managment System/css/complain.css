@@ -1,0 +1,72 @@
+body {
+    margin-top: 50px;
+}
+
+.wrapper {
+    width: 60%;
+    height: 100%;
+    display: grid;
+    grid-template-columns: 10% 90%;
+    margin: 0 auto;
+    padding: 10px;
+    background-color: rgb(247, 242, 242);
+}
+
+.complain_form {
+    margin-top: 50px;
+    margin-bottom: 100px;
+    margin-right: 10px;
+    padding-top: 100px;
+    padding-left: 40px;
+    border-style: solid;
+    border-left: none;
+    border-top: none;
+    border-bottom: none;
+    border-color: rgb(141, 138, 138);
+    border-right-width: 3px;
+}
+
+.product_details {
+    margin: 20px;
+    padding: 20px;
+    padding-top: 50px;
+    height: fit-content;
+}
+
+.view_complain {
+    margin-bottom: 20px;
+    border-color: rgb(187, 189, 190);
+    border-style: solid;
+    border-left: none;
+    border-top: none;
+    padding: 5px;
+}
+
+#cmp_type {
+    width: 300px;
+    height: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+
+#cmp_des {
+    width: 300px;
+    height: 200px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+
+.row {
+    height: 50px;
+    display: grid;
+    grid-template-columns: 30% 50% 20%;
+    padding: center;
+}
+
+.database_row {
+    height: fit-content;
+    display: grid;
+    grid-template-columns: 30% 50% 20%;
+}

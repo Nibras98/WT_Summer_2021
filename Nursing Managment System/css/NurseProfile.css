@@ -1,0 +1,34 @@
+
+body{
+    margin: auto;
+    border: 4px solid;
+  
+   
+    background-color: rgb(76, 150, 235);
+   
+  }
+  
+  
+  ul{
+   background-color: darkslateblue;
+    font-size: 15px;
+    font-weight: bold;
+  }
+  li{
+    float: inline-end;
+  }
+  a{
+    color: #6382B7;
+    text-decoration: none;
+  }
+  table{
+    border: none;
+    background-color: darkslategray;
+    padding: 5px 8px;
+    text-align: center;
+    text-decoration: none;
+  
+    font-size: 16px;
+    margin: 4px 2px;
+  }
+  

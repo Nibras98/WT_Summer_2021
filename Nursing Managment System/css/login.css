@@ -1,0 +1,24 @@
+form {
+    list-style-type: none;
+    overflow: hidden;
+    background-color: rgb(112, 240, 165);
+    font-family:  monospace;
+    font-size: 15px;
+    text-align: center;
+    border-radius: 80px;
+  }
+
+  body {
+    font-family: "Bell MT";
+    background-color: rgb(78, 238, 134);
+  }
+ 
+  a {
+    text-decoration: none;
+  }
+  
+ 
+  i{
+    color:rgb(105, 104, 104); 
+    font-size: 10px;
+ }

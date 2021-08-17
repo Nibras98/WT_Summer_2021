@@ -1,0 +1,25 @@
+body {
+    font-family: 'Georgia';
+    background-color: rgb(241, 227, 227);
+  }
+  table {
+    font-family: 'Corbel';
+    margin: auto;
+    background-color: rgb(97, 131, 112);
+    font-size: 20px;
+    line-height: 25px;
+    border-radius: 40px;
+    padding: 35px 70px 35px 70px;
+  }
+  a {
+    text-decoration: none;
+  }
+ 
+  h2{
+    font-family: 'Perpetua';
+}
+h3{
+    font-family: 'Perpetua';
+}
+  
+    

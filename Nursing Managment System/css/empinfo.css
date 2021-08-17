@@ -1,0 +1,44 @@
+body {
+    background-color: rgb(243, 234, 234);
+    font-family: 'Amaranth';
+    font-size: 18px;
+}
+
+img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+  }
+  
+
+.empcards{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-column-gap: 25px;
+    grid-row-gap: 30px;
+    margin-left: 3%;
+    margin-right: 3%;
+    padding: 10px;
+    box-sizing: border-box;
+    box-shadow: 15px 12px 15px rgba(8, 7, 7, 0.5);
+}
+
+.dp{
+
+    text-align: center;
+    display: block;
+    padding: 10px;
+    background: darkgray;
+}
+
+.info{
+    padding: 15px;
+    background: cornsilk;
+}
+
+.update{
+    padding: 15px;
+    background: lightblue;
+    text-align: center;
+}

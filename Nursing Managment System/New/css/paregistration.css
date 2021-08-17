@@ -1,0 +1,19 @@
+ body {
+  font-family: Bell MT;
+  background-color: rgb(245, 245, 245);
+}
+table {
+  font-family: Century;
+  margin: auto;
+  background-color: rgb(218, 215, 182);
+  font-size: 25px;
+  line-height: 25px;
+  border-radius: 40px;
+  padding: 30px 70px 30px 70px;
+}
+a {
+  text-decoration: none;
+}
+
+
+  

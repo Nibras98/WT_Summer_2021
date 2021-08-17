@@ -1,0 +1,31 @@
+body {
+    margin-top: 50px;
+}
+
+.wrapper {
+    width: 60%;
+    height: 1000px;
+    margin: 0 auto;
+    padding: 10px;
+    background-color: rgb(247, 242, 242);
+}
+
+.order_form {
+    width: 500px;
+    height: 700px;
+    height: fit-content;
+    margin: 0 auto;
+    padding: 50px;
+    border-style: solid;
+    border-color: rgb(185, 181, 181);
+    border-right-width: 3px;
+    border-radius: 40px;
+    background-color: rgb(255, 255, 255);
+}
+
+#text_field {
+    width: 470px;
+    height: 30px;
+    margin-bottom: 20px;
+    border-radius: 15px;
+}

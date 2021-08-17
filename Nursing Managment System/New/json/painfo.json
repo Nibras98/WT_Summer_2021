@@ -1,0 +1,32 @@
+[
+    {
+        "FirstName": "Shamit",
+        "LastName": "Nibras",
+        "contact": "+8801711318734",
+        "nid": "8263907480",
+        "email": "shamitnibras@gmail.com",
+        "password": "123456",
+        "gender": "Male",
+        "Address": "south banasree"
+    },
+    {
+        "FirstName": "Shamit",
+        "LastName": "Nibras",
+        "contact": "01711318734",
+        "nid": "123456",
+        "email": "hmb776@yahoo.com",
+        "password": "123456",
+        "gender": "Male",
+        "Address": "dhaka"
+    },
+    {
+        "FirstName": "Ismail",
+        "LastName": "Hossain",
+        "contact": "01783992008",
+        "nid": "2694810991681",
+        "email": "mr.ismailhossain123@gmail.com",
+        "password": "1234567",
+        "gender": "Male",
+        "Address": "Gulshan badda link road"
+    }
+]

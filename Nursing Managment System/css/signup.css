@@ -1,0 +1,64 @@
+body{
+    background-color: rgb(211, 254, 255);
+    backface-visibility:inherit;
+  }
+  #navbar {
+      list-style-type: none;
+      margin: 0;
+      padding: 20px;
+      overflow: hidden;
+      background-color: rgb(241, 148, 148);
+      position: -webkit-sticky; /* Safari */
+      position: sticky;
+      top: 0;
+      font-family:'Lucida Sans';
+      font-size: 18px;
+    }
+  
+  
+  #logo{
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      text-align: center;
+      font-size: 30px;
+      position: -webkit-sticky; /* Safari */
+      position: sticky;
+    
+    }
+  
+  
+    ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      background-color: #333;
+      top: 0;
+      font-family: Amaranth;
+      font-size: 18px;
+    }
+  
+  li {
+    float: right;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: rgb(218, 83, 83);
+  }
+
+  #form {
+      background-color: rgb(183, 252, 243);
+  }
+  #table{
+      background-color: rgb(1, 143, 143);
+      font-size: 20px;
+  }

@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(255, 231, 231);
+}
+h1.body {
+    font-family: 'Algerian';
+    text-align: center;
+   
+  }
+  table{
+    width:100%;
+    border:1px solid  #b3b3b3;
+    border-radius: 40px;
+    text-decoration:none;
+    background-color:#04AA6D;
+  }
+  h1{
+    font-family:"Poor Richard";
+  }
+  img {
+    align-items: center;
+     border-radius: 40px;
+     height: 290px;
+     width: 900px;
+ }
+ h3{
+    font-family:"Poor Richard";
+  }
+  div{
+    background-color:#1f5b83;
+  }
+  div.font{
+    size:"3"; 
+    font-family:"arial"; 
+    color:"#fff";
+  }
+  a {
+    text-decoration: none;
+  }

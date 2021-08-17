@@ -1,0 +1,112 @@
+body {
+    padding: 0px;
+    margin: 0px;
+    width: 100%;
+    text-align: center;
+    font-family: sans-serif;
+}
+a:link {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:visited {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:hover {
+    color: #c3e4f1;
+    background-color: transparent;
+    text-decoration: none;
+}
+.topSection {
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    padding: px;
+    position: absolute;
+    
+}
+.topSection{
+    background-color: #6382B7;
+    height: 105px;
+}
+.logo {
+    float: left;
+    width: 92px;
+    height: 89px;
+}
+.topTitle {
+    font-size: 25px; 
+    font-family: 'Segoe UI', sans-serif;
+    font-style: italic;
+    margin-top: 3px;
+    margin-left: 100px;
+    float: left;
+    color: white;
+    position: absolute;
+    text-shadow: 2px 2px black;
+}
+.slogan {
+    font-size: 20px; 
+    font-family: 'Segoe UI', sans-serif;
+    font-style: italic;
+    margin-left: 70px;
+    margin-top: 40px;
+    float: left;
+    font-style: oblique;
+    color: white;
+    text-shadow: 2px 2px black;
+}
+a.aboutPbl {
+    font-size: 15px;
+    font-family: 'Segoe UI', sans-serif;
+    margin-left: -280px;
+    float: left;
+    margin-top: 75px;
+    font-style: italic;
+}
+
+a.contactUs {
+    font-size: 15px;
+    font-family: 'Segoe UI', sans-serif;
+    margin-left: -140px;  
+  
+    margin-top: 75px;
+    font-style: italic;
+}
+
+h4.devider {
+    color: white;
+    margin-left: -148px;
+    margin-top: 75px;
+    float: left;
+}
+.navbar {
+    width: 100%;
+    margin-top: 100px;
+    height: 65px;
+    background-color: #3760A5;
+    position: absolute;
+    font-size: 20px;
+    
+}
+.navCont {
+    margin: 20px;
+    font-size: 20px;
+    text-align: center;
+    
+}
+#nav-cont{
+    padding: 20px;  
+}
+#login{
+    font-family:'Segoe UI', sans-serif;
+    font-size: 17px;
+    text-shadow:  2px 2px rgb(9, 9, 39);
+    float: right;
+    margin-top: 2px;
+    margin-right: 15px;
+
+}
+

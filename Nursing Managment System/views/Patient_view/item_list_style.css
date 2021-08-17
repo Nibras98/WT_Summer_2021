@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(243, 234, 234);
+    font-family: Amaranth;
+}
+
+#info {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+    grid-column-gap: 25px;
+    grid-row-gap: 30px;
+    margin-left: 3%;
+    margin-right: 3%;
+    padding: 15px;
+}
+
+#info img {
+    width: 100%;
+}
+
+#info img:hover {
+    border-top-left-radius: 40px;
+}
+
+.img {
+    box-sizing: border-box;
+    box-shadow: 15px 12px 15px rgba(8, 7, 7, 0.5);
+    padding: 10px;
+}
+
+.img:hover {
+    box-shadow: none;
+    background-color: rgb(168, 165, 165);
+    border-bottom-right-radius: 50px;
+    border-top-left-radius: 50px;
+}
+
+button {
+    padding: 10px;
+}

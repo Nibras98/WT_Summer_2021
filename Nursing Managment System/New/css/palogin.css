@@ -1,0 +1,17 @@
+
+ body {
+  font-family: Gabriola;
+  background-color: rgb(245, 245, 245);
+}
+table {
+  font-style: Century;
+  margin: auto;
+  background-color: rgb(107, 151, 128);
+  font-size: 25px;
+  line-height: 25px;
+  border-radius: 50px;
+  padding: 50px 80px 50px 80px;
+}
+a {
+  text-decoration: none;
+}
